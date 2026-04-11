@@ -20,14 +20,14 @@
 
 ## 🧠 What I Do
 
-```yaml
+
 Cloud: AWS (EC2, S3, Lambda, VPC, CloudWatch)
 DevOps: CI/CD, GitHub Actions, Docker, Terraform
 AI: Claude API, Agentic Workflows, Automation
 Monitoring: Logs, Alerts, Auto-healing systems
 
 
-## 🌐 Socials:
+🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ujer_k_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ujerkazi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ujerkazi75@gmail.com) 
 
 # 💻 Tech Stack:

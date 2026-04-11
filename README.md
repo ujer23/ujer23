@@ -1,5 +1,30 @@
-# 💫 About Me:
-🚀 DevOps & Cloud Enthusiast with hands-on experience in building scalable AWS infrastructure and CI/CD pipelines.<br><br>🤖 Passionate about integrating AI into DevOps workflows, I’ve built automation systems using Claude API for intelligent monitoring, root cause analysis, and auto-healing.<br><br>🛠️ Skilled in AWS, Terraform, Docker, GitHub Actions, and Linux, with a focus on Infrastructure as Code and automation.<br><br>📈 Continuously learning and building real-world projects to improve system reliability, reduce downtime, and optimize cloud costs.<br><br>🎯 Goal: To become a highly skilled DevOps Engineer building intelligent, self-healing cloud systems.
+<h1 align="center">Hi 👋, I'm Ujer Kazi</h1>
+<h3 align="center">🚀 DevOps Engineer | AWS | Terraform | AI-powered Automation</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=DevOps+Engineer;AWS+Cloud+Specialist;Terraform+%7C+Docker+%7C+CI%2FCD;Building+AI-Powered+Automation;Always+Learning+%F0%9F%9A%80" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🌩️ Passionate about **Cloud & DevOps Engineering**
+- 🤖 Building **AI-powered DevOps systems** using Claude API  
+- ⚙️ Skilled in **AWS, Terraform, Docker, GitHub Actions, Linux**
+- 📊 Focused on **automation, scalability & system reliability**
+- 🔥 Built **production-level cloud systems with real metrics**
+- 🎯 Goal: Become a **top DevOps & Cloud Engineer**
+
+---
+
+## 🧠 What I Do
+
+```yaml
+Cloud: AWS (EC2, S3, Lambda, VPC, CloudWatch)
+DevOps: CI/CD, GitHub Actions, Docker, Terraform
+AI: Claude API, Agentic Workflows, Automation
+Monitoring: Logs, Alerts, Auto-healing systems
 
 
 ## 🌐 Socials:

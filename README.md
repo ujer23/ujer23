@@ -2,36 +2,53 @@
 <h3 align="center">🚀 DevOps Engineer | AWS | Terraform | AI-powered Automation</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=DevOps+Engineer;AWS+Cloud+Specialist;Terraform+%7C+Docker+%7C+CI%2FCD;Building+AI-Powered+Automation;Always+Learning+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer;AWS+Cloud+Specialist;Terraform+%7C+Docker+%7C+CI%2FCD;AI-Powered+Automation;Building+Scalable+Systems" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🌩️ Passionate about **Cloud & DevOps Engineering**
-- 🤖 Building **AI-powered DevOps systems** using Claude API  
-- ⚙️ Skilled in **AWS, Terraform, Docker, GitHub Actions, Linux**
-- 📊 Focused on **automation, scalability & system reliability**
-- 🔥 Built **production-level cloud systems with real metrics**
-- 🎯 Goal: Become a **top DevOps & Cloud Engineer**
+- 🌩️ DevOps & Cloud Engineer focused on **AWS Infrastructure**
+- 🤖 Building **AI-powered DevOps systems (Agentic AI)**
+- ⚙️ Skilled in **Terraform, Docker, CI/CD, GitHub Actions**
+- 📊 Focused on **automation, scalability & reliability**
+- 🔥 Built real systems with **99.9% uptime & 500+ events**
+- 🎯 Goal: Become a **top DevOps Engineer**
 
 ---
 
-## 🧠 What I Do
+## ⚙️ DevOps Toolchain (Animated)
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,terraform,kubernetes,jenkins,githubactions,linux,python,bash" />
+</p>
 
-Cloud: AWS (EC2, S3, Lambda, VPC, CloudWatch)
-DevOps: CI/CD, GitHub Actions, Docker, Terraform
-AI: Claude API, Agentic Workflows, Automation
-Monitoring: Logs, Alerts, Auto-healing systems
+---
 
+## ☁️ AWS Stack
 
-🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ujer_k_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ujerkazi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ujerkazi75@gmail.com) 
+<p align="center">
+AWS • EC2 • S3 • Lambda • VPC • CloudWatch • DynamoDB • API Gateway • Auto Scaling • SNS • SQS • ECR • ECS
+</p>
 
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![CrateDB](https://img.shields.io/badge/CrateDB-009DC7?style=for-the-badge&logo=CrateDB&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
+---
+
+## 🚀 Featured Projects
+
+### 🔥 AI DevOps Automation Platform
+- 🤖 AI-based monitoring + root cause analysis  
+- ⚙️ CI/CD using GitHub Actions + AWS CodePipeline  
+- 📉 Reduced MTTR by **60%**  
+- ☁️ Terraform-based infrastructure  
+
+### ⚡ Smart Cloud Auto-Healing System
+- 🔍 Detects anomalies via CloudWatch  
+- 🤖 Auto-remediation using AI  
+- 📈 500+ automated fixes  
+- 💰 Reduced cloud cost by **25%**
+
+---
 
 ## 📊 GitHub Stats
 
@@ -44,11 +61,35 @@ Monitoring: Logs, Alerts, Auto-healing systems
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujer23&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="150"/>
 </p>
 
+---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ujer23&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
+---
 
+## 📈 Contribution Graph
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ujer23&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://github.com/ujer23/ujer23/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/ujerkazi"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:ujerkazi75@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>

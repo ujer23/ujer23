@@ -68,7 +68,6 @@ AWS • EC2 • S3 • Lambda • VPC • CloudWatch • DynamoDB • API Gatewa
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ujer23&theme=onedark" />
 </p>
-
 ---
 
 ## 📈 Contribution Graph

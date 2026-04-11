@@ -18,7 +18,7 @@
 
 ---
 
-## ⚙️ DevOps Toolchain
+## ⚙️ DevOps Toolchain (Animated)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,terraform,kubernetes,jenkins,githubactions,linux,python,bash" />
@@ -50,10 +50,31 @@ AWS • EC2 • S3 • Lambda • VPC • CloudWatch • DynamoDB • API Gatewa
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ujer23&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=ujer23&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujer23&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ujer23&theme=flat" />
+</p>
+
+---
+
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ujer23&theme=github-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ujer23&theme=github-compact" />
 </p>
 
 ---

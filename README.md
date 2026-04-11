@@ -53,12 +53,12 @@ AWS • EC2 • S3 • Lambda • VPC • CloudWatch • DynamoDB • API Gatewa
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ujer23&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=ujer23&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ujer23&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=ujer23&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujer23&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujer23&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
@@ -66,15 +66,17 @@ AWS • EC2 • S3 • Lambda • VPC • CloudWatch • DynamoDB • API Gatewa
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ujer23&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ujer23&theme=flat" />
 </p>
+
 ---
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ujer23&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ujer23&theme=github-compact" />
 </p>
+
 ---
 
 ## 🐍 Contribution Snake Animation
@@ -82,6 +84,7 @@ AWS • EC2 • S3 • Lambda • VPC • CloudWatch • DynamoDB • API Gatewa
 <p align="center">
   <img src="https://raw.githubusercontent.com/ujer23/ujer23/output/github-contribution-grid-snake.svg" />
 </p>
+
 ---
 
 ## 📫 Connect with Me

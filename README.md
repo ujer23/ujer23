@@ -82,7 +82,7 @@ AWS • EC2 • S3 • Lambda • VPC • CloudWatch • DynamoDB • API Gatewa
 ## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://github.com/ujer23/ujer23/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ujer23/ujer23/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---

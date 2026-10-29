@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ujer Kazi</h1>
+<h1 align="center">Hi 👋, I'm Ujer</h1>
 <h3 align="center">🚀 DevOps Engineer | AWS | Terraform | AI-powered Automation</h3>
 
 <p align="center">
